@@ -1,0 +1,5 @@
+data/
+embeddings.npy
+geology_index.faiss
+labels.npy
+person.png
